@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altantheprodigy&label=Profile%20views&color=0e75b6&style=flat" alt="altantheprodigy" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Laravel**
+- 🌱 I’m currently learning **Flutter, React**
 
-- 💬 Ask me about **Flutter and Laravel**
+- 💬 Ask me about **Flutter and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
